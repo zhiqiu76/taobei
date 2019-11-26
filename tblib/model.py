@@ -1,4 +1,4 @@
-from sqlalchemy.orm.session import session
+from sqlalchemy.orm.session import Session
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 
